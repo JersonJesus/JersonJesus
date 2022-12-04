@@ -3,12 +3,6 @@
 - 💻Estou cursando Ciências da Computação no IMETRO.
 - 😉Sou aspirante a Desenvolvedor Front-End.
 ##
-<div align="center">
-  <a href="https://github.com/JersonJesus">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jersonjesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-  
-##
   
 ### Tecnologias que estou estudando:
 <div style="display: inline_block"><br>
