@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jerson Jesus</h1>
+<h1 align="center">Hi 👋, I'm Jerson André</h1>
 <h3 align="center">I'm studying Computer Science and I'm an aspiring Back End Developer.</h3>
 
 - 📫 How to reach me **alkimistakillas@gmail.com**
